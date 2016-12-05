@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;SimpleEchoServer&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../jwt" />
+      <root url="file://$PROJECT_DIR$/../../myBlog" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../htmltemp" />
+      <root url="file://$PROJECT_DIR$/../../gor-context" />
+      <root url="file://$PROJECT_DIR$/../../staticweb" />
+      <root url="file://$PROJECT_DIR$/../../testGo" />
+      <root url="file://$PROJECT_DIR$/../../negroni" />
+      <root url="file://$PROJECT_DIR$/../../myCode" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../taskmanager" />
+      <root url="file://$PROJECT_DIR$/../../myServer" />
+      <root url="file://$PROJECT_DIR$/../../middleware-2" />
+      <root url="file://$PROJECT_DIR$/../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../mongodb" />
+      <root url="file://$PROJECT_DIR$/../../middleware" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../template" />
+      <root url="file://$PROJECT_DIR$/../../auth" />
+      <root url="file://$PROJECT_DIR$/../../golang-book" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../jwt" />
+      <root url="file://$PROJECT_DIR$/../../myBlog" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../htmltemp" />
+      <root url="file://$PROJECT_DIR$/../../gor-context" />
+      <root url="file://$PROJECT_DIR$/../../staticweb" />
+      <root url="file://$PROJECT_DIR$/../../testGo" />
+      <root url="file://$PROJECT_DIR$/../../negroni" />
+      <root url="file://$PROJECT_DIR$/../../myCode" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../taskmanager" />
+      <root url="file://$PROJECT_DIR$/../../myServer" />
+      <root url="file://$PROJECT_DIR$/../../middleware-2" />
+      <root url="file://$PROJECT_DIR$/../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../mongodb" />
+      <root url="file://$PROJECT_DIR$/../../middleware" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../template" />
+      <root url="file://$PROJECT_DIR$/../../auth" />
+      <root url="file://$PROJECT_DIR$/../../golang-book" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
